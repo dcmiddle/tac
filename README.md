@@ -1,3 +1,4 @@
+INTEL OWNS THIS PROJECT NOW
 # OpenSSF Technical Advisory Council (TAC)
 
 The OpenSSF Technical Advisory Council is responsible for oversight of the various Technical Initiatives of the OpenSSF.
